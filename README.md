@@ -2,6 +2,10 @@
 
 This project is part of the **Frontend Essentials** final assignment.
 
+**Live demo:** https://mbekkhus.github.io/sustainable-food-webshop/
+
+_Group project. The chatbot needs a personal OpenAI API key and does not work on the live demo; the rest of the site does._
+
 FRAM is a fictional sustainable food delivery service that connects customers with local farms in Norway.  
 The website implements a provided Figma design and demonstrates:
 
@@ -286,6 +290,7 @@ Parts of this project were developed with assistance from ChatGPT, used as a too
 - The chatbot requires:
   - A valid OpenAI API key
   - An active internet connection
+- The chatbot does not work on the GitHub Pages demo, because the API key is not included in the repository. 
 
 ---
 
